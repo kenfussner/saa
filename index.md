@@ -1,5 +1,5 @@
-## Coming Fall 2020
+## Coming Fall 2020...
 
-St Ambrose Academy is a Homeschool Hybrid that combines the best elements of homeschool and a traditional classroom setting to provide a Classical Catholic education.
+Our Lady of Perpetual Hope is a Homeschool Hybrid that combines the best elements of homeschool and a traditional classroom setting to provide a Classical Catholic education. We are affiliated with [Saint Ambrose Academy](https://www.saintambroseacademy.org) and will be meeting at Saint Alphonsus Liguori in Zionsville, Indiana. 
 
 More details to come very soon...
