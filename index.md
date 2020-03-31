@@ -1,5 +1,5 @@
 ---
-redirect_to: http://www.github.com
+redirect_to: https://www.saintambroseacademy.org/saint-ambrose-academy-our-lady-of-perpetual-help.html
 ---
 
 ## Coming Fall 2020...
