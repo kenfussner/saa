@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Our Lady of Perpetual Help
 description: Saint Ambrose Academy, Indianapolis
+plugins:
+  - jekyll-redirect-from
+  whitelist:
+  - jekyll-redirect-from
