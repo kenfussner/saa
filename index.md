@@ -1,5 +1,5 @@
 ---
-redirect_to: https://www.saintambroseacademy.org/saint-ambrose-academy-our-lady-of-perpetual-help.html
+redirect_to: https://www.saintambroseacademy.org/our-lady-of-perpetual-help/
 ---
 
 ## Coming Fall 2020...
